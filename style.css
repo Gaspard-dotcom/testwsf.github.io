@@ -1,26 +1,23 @@
 body {
-    justify-content: center;
+  justify-content: center;
 }
 
 h1 {
-    display: flex;
-    justify-content: center;
-    }
-
+  display: flex;
+  justify-content: center;
+}
 
 h2 {
-    display: flex;
-   justify-content: center;	
+  display: flex;
+  justify-content: center;
 }
 
 h3 {
-    display: flex;
-    justify-content: center;	
+  display: flex;
+  justify-content: center;
 }
 
 p {
-    display: flex;
-    justify-content: center;	
+  display: flex;
+  justify-content: center;
 }
-
-
